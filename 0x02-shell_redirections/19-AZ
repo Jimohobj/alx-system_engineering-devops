@@ -1,0 +1,2 @@
+#!/bin/bash
+fr "A" "7" 1 tr "c"
